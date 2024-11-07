@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRMOU849517\\source\\repos\\WebApplicationTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{703F9577-C797-4437-83EA-F6493A46FE89}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\brmou849517\\source\\repos\\webapplicationtest\\webapplicationtest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703F9577-C797-4437-83EA-F6493A46FE89}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703F9577-C797-4437-83EA-F6493A46FE89}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\brmou849517\\source\\repos\\webapplicationtest\\webapplicationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703F9577-C797-4437-83EA-F6493A46FE89}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRMOU849517\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Program.cs",
+              "ToolTip": "C:\\Users\\BRMOU849517\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Program.cs",
+              "RelativeToolTip": "WebApplicationTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:21:00.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\BRMOU849517\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\BRMOU849517\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplicationTest\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:02:12.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
